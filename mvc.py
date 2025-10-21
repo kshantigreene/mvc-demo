@@ -15,6 +15,7 @@ if __name__ == '__main__':
     m.add("0. Kshanti item")
     m.add("Item: 1 Caleb")
     m.add("Item: 2 Cian go to work")
+    m.add("Item: 3 David")
     v.show(m.items)
     v.run()
     m.save("./items.txt")
